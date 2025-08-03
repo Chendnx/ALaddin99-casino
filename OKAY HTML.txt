@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Aladdin99 - Dunia Keberuntunganmu Dimulai di Sini!</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: url('https://i.ibb.co/Pzdq59m/aladdin-bg.jpg') no-repeat center center fixed;
+      background-size: cover;
+      color: #fff;
+      text-align: center;
+    }
+
+    .overlay {
+      background-color: rgba(0, 0, 0, 0.7);
+      padding: 80px 20px;
+      min-height: 100vh;
+    }
+
+    h1 {
+      font-size: 3em;
+      margin-bottom: 20px;
+      color: gold;
+      text-shadow: 2px 2px 4px #000;
+    }
+
+    p {
+      font-size: 1.3em;
+      margin-bottom: 40px;
+    }
+
+    .cta-button {
+      background: linear-gradient(45deg, #ffcc00, #ff9900);
+      color: #000;
+      padding: 15px 30px;
+      border: none;
+      font-size: 1.2em;
+      border-radius: 8px;
+      cursor: pointer;
+      text-decoration: none;
+      box-shadow: 0 0 10px #ffcc00;
+      transition: 0.3s;
+    }
+
+    .cta-button:hover {
+      background: linear-gradient(45deg, #ffe066, #ffb84d);
+      box-shadow: 0 0 20px #ffc107;
+    }
+
+    .logo {
+      width: 150px;
+      margin-bottom: 20px;
+    }
+
+    @media (max-width: 600px) {
+      h1 { font-size: 2em; }
+      .cta-button { font-size: 1em; padding: 12px 25px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="overlay">
+    <img src="https://i.ibb.co/yYwL0nD/aladdin-logo.png" alt="Aladdin99" class="logo">
+    <h1>Selamat Datang di Aladdin99</h1>
+    <p>Dunia penuh keajaiban dan keberuntungan menantimu! Dapatkan bonus hingga <strong>100%</strong> untuk member baru.</p>
+    <a href="https://aladdin99-official.com" class="cta-button">Masuk & Klaim Bonusmu!</a>
+  </div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Aladdin99 - Dunia Keberuntunganmu Dimulai di Sini!</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: url('https://i.ibb.co/Pzdq59m/aladdin-bg.jpg') no-repeat center center fixed;
+      background-size: cover;
+      color: #fff;
+      text-align: center;
+    }
+
+    .overlay {
+      background-color: rgba(0, 0, 0, 0.7);
+      padding: 80px 20px;
+      min-height: 100vh;
+    }
+
+    h1 {
+      font-size: 3em;
+      margin-bottom: 20px;
+      color: gold;
+      text-shadow: 2px 2px 4px #000;
+    }
+
+    p {
+      font-size: 1.3em;
+      margin-bottom: 40px;
+    }
+
+    .cta-button {
+      background: linear-gradient(45deg, #ffcc00, #ff9900);
+      color: #000;
+      padding: 15px 30px;
+      border: none;
+      font-size: 1.2em;
+      border-radius: 8px;
+      cursor: pointer;
+      text-decoration: none;
+      box-shadow: 0 0 10px #ffcc00;
+      transition: 0.3s;
+    }
+
+    .cta-button:hover {
+      background: linear-gradient(45deg, #ffe066, #ffb84d);
+      box-shadow: 0 0 20px #ffc107;
+    }
+
+    .logo {
+      width: 150px;
+      margin-bottom: 20px;
+    }
+
+    @media (max-width: 600px) {
+      h1 { font-size: 2em; }
+      .cta-button { font-size: 1em; padding: 12px 25px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="overlay">
+    <img src="https://i.ibb.co/yYwL0nD/aladdin-logo.png" alt="Aladdin99" class="logo">
+    <h1>Selamat Datang di Aladdin99</h1>
+    <p>Dunia penuh keajaiban dan keberuntungan menantimu! Dapatkan bonus hingga <strong>100%</strong> untuk member baru.</p>
+    <a href="https://aladdin99-official.com" class="cta-button">Masuk & Klaim Bonusmu!</a>
+  </div>
+</body>
+</html>
